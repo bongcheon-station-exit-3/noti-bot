@@ -32,4 +32,4 @@ out/
 .vscode/
 
 ### spring boot ###
-/resources/application-override.yml
+src/main/resources/application-override.yml
