@@ -1,0 +1,110 @@
+2020-02-27 08:24:56.219  INFO 15548 --- [main] edu.pasudo123.bot.BotApplication         : Starting BotApplication on DESKTOP-PARK with PID 15548 (D:\doubler\dev\pasudo123-workspace\nofi-bot\out\production\classes started by PASUDO in D:\doubler\dev\pasudo123-workspace\nofi-bot)
+2020-02-27 08:24:56.225  INFO 15548 --- [main] edu.pasudo123.bot.BotApplication         : No active profile set, falling back to default profiles: default
+2020-02-27 08:24:58.956  INFO 15548 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2020-02-27 08:24:58.990  INFO 15548 --- [main] edu.pasudo123.bot.BotApplication         : Started BotApplication in 3.747 seconds (JVM running for 6.765)
+2020-02-27 08:25:00.003  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : =================================
+2020-02-27 08:25:00.023  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 현재시간 :: 02-27 08:25:00 
+2020-02-27 08:25:00.359  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:25:00.540  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:25:00.667  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:25:00.794  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:25:05.001  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : =================================
+2020-02-27 08:25:05.001  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 현재시간 :: 02-27 08:25:05 
+2020-02-27 08:25:05.142  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:25:05.337  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:25:05.477  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:25:05.602  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:25:10.002  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : =================================
+2020-02-27 08:25:10.002  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 현재시간 :: 02-27 08:25:10 
+2020-02-27 08:25:10.176  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:25:10.366  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:25:10.514  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:25:10.631  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:25:15.002  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : =================================
+2020-02-27 08:25:15.002  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 현재시간 :: 02-27 08:25:15 
+2020-02-27 08:25:15.119  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:25:15.305  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:25:15.462  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:25:15.576  INFO 15548 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:25:18.915  INFO 15548 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2020-02-27 08:27:03.270  INFO 25968 --- [main] edu.pasudo123.bot.BotApplication         : Starting BotApplication on DESKTOP-PARK with PID 25968 (D:\doubler\dev\pasudo123-workspace\nofi-bot\out\production\classes started by PASUDO in D:\doubler\dev\pasudo123-workspace\nofi-bot)
+2020-02-27 08:27:03.275  INFO 25968 --- [main] edu.pasudo123.bot.BotApplication         : No active profile set, falling back to default profiles: default
+2020-02-27 08:27:05.854  INFO 25968 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2020-02-27 08:27:05.886  INFO 25968 --- [main] edu.pasudo123.bot.BotApplication         : Started BotApplication in 3.467 seconds (JVM running for 5.827)
+2020-02-27 08:27:10.002  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : =================================
+2020-02-27 08:27:10.009  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 현재시간 :: 02-27 08:27:10 
+2020-02-27 08:27:10.299  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:10.476  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:10.612  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:10.724  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:15.001  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : =================================
+2020-02-27 08:27:15.001  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 현재시간 :: 02-27 08:27:15 
+2020-02-27 08:27:15.129  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:15.318  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:15.458  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:15.584  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:20.025  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : =================================
+2020-02-27 08:27:20.063  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 현재시간 :: 02-27 08:27:20 
+2020-02-27 08:27:20.182  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:20.363  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:20.516  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:20.632  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:25.002  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : =================================
+2020-02-27 08:27:25.002  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 현재시간 :: 02-27 08:27:25 
+2020-02-27 08:27:25.156  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:25.369  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:25.525  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:25.648  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:30.001  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : =================================
+2020-02-27 08:27:30.001  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 현재시간 :: 02-27 08:27:30 
+2020-02-27 08:27:30.128  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:30.307  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:30.440  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:30.571  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:35.001  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : =================================
+2020-02-27 08:27:35.001  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 현재시간 :: 02-27 08:27:35 
+2020-02-27 08:27:35.124  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:35.294  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:35.434  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:35.541  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:40.001  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : =================================
+2020-02-27 08:27:40.002  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 현재시간 :: 02-27 08:27:40 
+2020-02-27 08:27:40.143  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:40.316  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:40.452  INFO 25968 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:40.454  INFO 25968 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2020-02-27 08:27:45.814  INFO 11032 --- [main] edu.pasudo123.bot.BotApplication         : Starting BotApplication on DESKTOP-PARK with PID 11032 (D:\doubler\dev\pasudo123-workspace\nofi-bot\out\production\classes started by PASUDO in D:\doubler\dev\pasudo123-workspace\nofi-bot)
+2020-02-27 08:27:45.819  INFO 11032 --- [main] edu.pasudo123.bot.BotApplication         : No active profile set, falling back to default profiles: default
+2020-02-27 08:27:48.356  INFO 11032 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2020-02-27 08:27:48.386  INFO 11032 --- [main] edu.pasudo123.bot.BotApplication         : Started BotApplication in 3.492 seconds (JVM running for 5.983)
+2020-02-27 08:27:50.002  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : =================================
+2020-02-27 08:27:50.021  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 현재시간 :: 02-27 08:27:50 
+2020-02-27 08:27:50.330  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:50.523  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:50.660  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:50.774  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:55.001  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : =================================
+2020-02-27 08:27:55.001  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 현재시간 :: 02-27 08:27:55 
+2020-02-27 08:27:55.139  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:55.316  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:55.460  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:27:55.573  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:28:00.001  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : =================================
+2020-02-27 08:28:00.001  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 현재시간 :: 02-27 08:28:00 
+2020-02-27 08:28:00.135  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:28:00.332  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:28:00.471  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:28:00.596  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:28:05.002  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : =================================
+2020-02-27 08:28:05.002  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 현재시간 :: 02-27 08:28:05 
+2020-02-27 08:28:05.145  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:28:05.312  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:28:05.460  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:28:05.589  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:28:10.001  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : =================================
+2020-02-27 08:28:10.001  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 현재시간 :: 02-27 08:28:10 
+2020-02-27 08:28:10.133  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:28:10.325  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:28:10.463  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:28:10.624  INFO 11032 --- [scheduling-1] e.p.bot.noti.service.MaskCheckService    : 마스크 현재 구매할 수 없음
+2020-02-27 08:28:13.553  INFO 11032 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'

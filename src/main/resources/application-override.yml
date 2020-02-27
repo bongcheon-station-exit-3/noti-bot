@@ -1,0 +1,11 @@
+telegram:
+  my-bot-token: '1088466802:AAFrrkDWL6615SltHXNhHcjuqrRpNdQ0aII'
+  my-chat-id: '862091717'
+
+logging:
+  level:
+    edu.pasudo123.bot.*: info
+  file.max-history: 3
+  file.max-size: 3MB
+  file:
+    name: /data/log/logback/noti-bot.log
